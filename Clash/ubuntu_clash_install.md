@@ -15,8 +15,9 @@
 在终端 cd 到 Clash 二进制文件所在的目录，执行 wget -O config.yaml 'https://www.mzkxzsubs.us/link/gv7GIwJRKmRgfC2G?clash=1&log-level=info' 下载 Clash 配置文件
 
 ![Alt text](./images/image-3.png)
-这里有问题，
-这里需要换成你自己的clash订阅链接。重新配置一遍。
+
+这里有问题，这里需要换成你自己的clash订阅链接。重新配置一遍。
+
 ![Alt text](./images/image-6.png)
 
 ## 3.加载配置
