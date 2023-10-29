@@ -29,14 +29,17 @@
 ## 4.端口访问
 重新输入：
 ![Alt text](./images/image-8.png)
+
 访问 [Clash Dashboard](https://clash.razord.top/#/proxies) 可以进行切换节点、测延迟等操作。
 ![Alt text](./images/image-9.png)
+
 已经对应上，点ok
 ![Alt text](./images/image-11.png)
 
 ## 5.启动代理
 以 Ubuntu 18.04 为例，打开系统设置，选择网络，点击网络代理右边的 ⚙ 按钮，选择手动，填写 HTTP 和 HTTPS 代理为 127.0.0.1:7890，填写 Socks 主机为 127.0.0.1:7891，即可启用系统代理。
 ![Alt text](./images/image-10.png)
+
 可以正常访问github了。
 ![Alt text](./images/image-12.png)
 
