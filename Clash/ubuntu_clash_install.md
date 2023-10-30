@@ -1,5 +1,11 @@
 # Ubuntu clash配置
 
+参考教程
+- [Clash使用教程](https://fly.catcottage.us/user/help/view/5/13)
+- [[SSR/Trojan][通用版客户端]在 Linux下通过 Clash 连接](https://iyuantiao.com/fenxiangfuli/jiaocheng/ssr-trojan%E9%80%9A%E7%94%A8%E7%89%88%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%9C%A8-linux%E4%B8%8B%E9%80%9A%E8%BF%87-clash-%E8%BF%9E%E6%8E%A5.html)
+- [Linux(Centos7) 使用Clash For Linux网络代理工具教程](https://199604.com/2001)
+- [Ubuntu-clash](https://qiyuan-z.github.io/2020/02/05/Ubuntu-clash%E9%85%8D%E7%BD%AE/)
+
 ## 1.下载安装包
 执行 cd && mkdir clash 在用户目录下创建 clash 文件夹。
 
