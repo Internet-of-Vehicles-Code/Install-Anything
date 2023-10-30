@@ -53,6 +53,6 @@
 
 ![Alt text](./images/image-6.png)
 
-如果关掉了终端，下次启动记得进入clash然后再终端输入```./clash -d . ```
+如果关掉了终端，下次启动记得进入clash然后在终端输入```./clash -d . ```
 
 
