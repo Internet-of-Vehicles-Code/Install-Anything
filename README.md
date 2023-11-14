@@ -19,4 +19,5 @@ Install Anything旨在解决这个问题。我们的项目汇集了来自不同�
 
 - [Veins_SUMO_OMNeTpp](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp/blob/master/Veins_SUMO_OMNeT%2B%2B.md) (By Hongmin Wei, Yurong Zhang)
 - [Veins5.2-Ubuntu18.04-Installation-Guide](https://github.com/Yrongovo/Veins5.2-Ubuntu18.04-Installation-Guide) (By Yurong Zhang)
-- [Ubuntu-Clash-Install](./Clash/ubuntu_clash_install.md)(By Zheng Xue)
+- [Ubuntu-Clash-Install](./Clash/ubuntu_clash_install.md) (By Zheng Xue)
+- [VASP-install](https://github.com/Yrongovo/VASP) (By Yurong Zhang)
